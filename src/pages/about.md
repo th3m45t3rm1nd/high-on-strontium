@@ -3,9 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-This is the obligatory About page where i have to tell you who am i. Well that question is what I am figuring out myself but anyways I will tell you what I know about myself.
+This is the obligatory About page where I have to tell you who I am. Well, that question is what I am figuring out myself, but anyways, I will tell you what I know about myself already.
 
-- I have been arbitrarily told that I am a Homo Sapiens(commonly known as Human Being).
-- I have a big attention deficit that I know for sure. Some even say I am an [INTP](https://www.16personalities.com/intp-personality). But in reality I don't even know who I am.
+- I have been arbitrarily told that I am a Homo sapiens (commonly known as a Human Being). Should I believe it? I don’t know.
+- I am a person with high attention deficit, that I know for sure.
+- I sure do love Animes, Movies, and Music. If you want, we can talk about them.
+- Some even say I am an [INTP](https://www.16personalities.com/intp-personality).
 
-That's all I know. If you learn something about please contact me.
+Well, that’s all I know. If you learn something about me, contact me.
